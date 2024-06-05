@@ -1,0 +1,59 @@
+.container{
+    width: 2000px;
+    height: 2500px;
+    object-fit: cover;
+    padding-top: 30px;
+    
+   background-image: url(High-quality-coffee-beans-photo.webp);
+    
+}
+.boxs{
+    width: 500px;
+    height: 850px;
+    background-color: burlywood;
+    margin: auto;
+    font-family: Impact,  sans-serif; 
+}
+.cofe{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    border-bottom: 3px solid brown;
+    font-weight: bold;
+    font-family: Impact,  sans-serif; 
+}
+.coffee{
+
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    font-family: Impact,  sans-serif; 
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 3px solid brown;
+    width: 80%;
+    margin: auto;
+
+}
+.end p{
+    color: black;
+   text-align: center;
+   font-family: Impact,  sans-serif; 
+}
+.end a{
+   margin-left: 190px;
+   color: black;
+   text-decoration: none;
+   font-family: Impact,  sans-serif; 
+}
